@@ -11,7 +11,7 @@ metadata:
   title:
     default: Global Elite & Associates
     template: '%s — Global Elite & Associates'
-  description: "Global Elite & Associates - Bespoke Hospitality Sales"
+  description: 'Global Elite & Associates - Bespoke Hospitality Sales'
   robots:
     index: true
     follow: true
